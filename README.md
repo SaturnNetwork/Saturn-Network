@@ -1,5 +1,5 @@
 # ! IMPORTANT !
-This github repo (https://github.com/SaturnNetwork/Saturn-Network) will only be used for the wiki to show information about Saturn Network.
+This [github repo](https://github.com/SaturnNetwork/Saturn-Network) will only be used for the wiki to show information about Saturn Network.
 This is only a place holder for people who want information about Saturn Network but don't wanna join the discord.
 
 * Wiki - [Click Me](https://github.com/SaturnNetwork/Saturn-Network/wiki)

@@ -3,3 +3,13 @@
 </p>
 
 # Lunar Network
+Lunar Network ( Lunar Network LLC ) was a holding company.
+
+# Current or past company?
+Lunar Network's name was changed to Saturn Network LLC aka this company.
+
+# Reason for closing
+Lunaa wanted something new.
+
+# Assets tab
+The assets tab displays the logo(s) of the company and banners.

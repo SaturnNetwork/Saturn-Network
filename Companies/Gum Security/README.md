@@ -2,7 +2,7 @@
   <img height="300" src="https://z.zz.fo/sQUyC.webp">
 </p>
 
-# Gum Security ( GumSec 
+# Gum Security ( GumSec )
 Gum Security ( GumSec ) was a VPN
 
 # Current or past company?
